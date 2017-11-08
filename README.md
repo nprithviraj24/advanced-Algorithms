@@ -1,2 +1,2 @@
 # advanced-Algorithms
-List of different algorithms implemented using Dynamics Programming, Greedy Programming etc.
+List of different algorithms implemented using Dynamic Programming, Greedy Programming etc.
